@@ -7,6 +7,79 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/04/26/i-wonder-when.html",
+				
+				"content_html": "<p>I wonder when the Humane demo will be up on TED.com</p>\n",
+				"content_text": "I wonder when the Humane demo will be up on TED.com\n",
+				"date_published": "2023-04-26T17:09:54+08:00",
+				"url": "https://my.advocrazy.com/2023/04/26/i-wonder-when.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/04/26/wow-why-am.html",
+				
+				"content_html": "<p>Wow! Why am I <strong>NOT</strong> surprised by this Qualcomm behaviour?</p>\n<p><a href=\"https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker\">Qualcomm collects data from smartphones?</a></p>\n",
+				"content_text": "Wow! Why am I **NOT** surprised by this Qualcomm behaviour?\r\n\r\n[Qualcomm collects data from smartphones?](https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker)\r\n",
+				"date_published": "2023-04-26T05:23:18+08:00",
+				"url": "https://my.advocrazy.com/2023/04/26/wow-why-am.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/04/26/cmon-password-stop.html",
+				
+				"content_html": "<p>C&rsquo;mon! 1Password - stop this plan. This <strong>IS NOT</strong> good.</p>\n<p><a href=\"https://blog.1password.com/privacy-preserving-app-telemetry/\">1Password to collect user activities</a></p>\n",
+				"content_text": "C'mon! 1Password - stop this plan. This **IS NOT** good. \r\n\r\n[1Password to collect user activities](https://blog.1password.com/privacy-preserving-app-telemetry/)\n",
+				"date_published": "2023-04-26T05:19:05+08:00",
+				"url": "https://my.advocrazy.com/2023/04/26/cmon-password-stop.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/04/25/fresh-from-the.html",
+				
+				"content_html": "<p>Fresh from the tree - waiting for a few more days to ripen more. Could have waited for it to ripen on the tree but the 🦇 are fast. :)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Fresh from the tree - waiting for a few more days to ripen more. Could have waited for it to ripen on the tree but the 🦇 are fast. :) \n\n<img src=\"uploads/2023/7ecf3a3fc7.jpg\" width=\"600\" height=\"450\" alt=\"mango apple\">\n",
+				"date_published": "2023-04-25T16:33:51+08:00",
+				"url": "https://my.advocrazy.com/2023/04/25/fresh-from-the.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/04/25/got-myself-nutr.html",
+				
+				"content_html": "<p>Got myself <a href=\"https://thenutr.com/\">Nutr</a> and loving it. Now I make my own oat milk with no preservatives and no sugar!</p>\n<p>Trying to figure out what type of oil/fat to add so I can froth it and make foam.</p>\n",
+				"content_text": "Got myself [Nutr](https://thenutr.com/) and loving it. Now I make my own oat milk with no preservatives and no sugar! \n\nTrying to figure out what type of oil/fat to add so I can froth it and make foam. \n",
+				"date_published": "2023-04-25T13:30:44+08:00",
+				"url": "https://my.advocrazy.com/2023/04/25/got-myself-nutr.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/04/25/microblog-now-interfaces.html",
+				
+				"content_html": "<p>Micro.blog now interfaces with <a href=\"https://bsky.app\">Bluesky</a>. I cannot wait for Micro.blog to allow atproto-compliant services to follow and interact with Micro.blog users the same way ActivityPub does it.</p>\n",
+				"content_text": "Micro.blog now interfaces with [Bluesky](https://bsky.app). I cannot wait for Micro.blog to allow atproto-compliant services to follow and interact with Micro.blog users the same way ActivityPub does it.\n",
+				"date_published": "2023-04-25T07:30:29+08:00",
+				"url": "https://my.advocrazy.com/2023/04/25/microblog-now-interfaces.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/04/24/when-temperatures-reach.html",
+				
+				"content_html": "<p>When temperatures reach 40-ish C and your classrooms don&rsquo;t have A/Cs - it is time to shift back to remote learning. Heck, work-from-home should be the default, too, OR allow your workers to report in swimsuits. LOL.</p>\n",
+				"content_text": "When temperatures reach 40-ish C and your classrooms don't have A/Cs - it is time to shift back to remote learning. Heck, work-from-home should be the default, too, OR allow your workers to report in swimsuits. LOL.\n",
+				"date_published": "2023-04-24T07:40:07+08:00",
+				"url": "https://my.advocrazy.com/2023/04/24/when-temperatures-reach.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/04/23/are-we-expecting.html",
+				
+				"content_html": "<p>Are we expecting ethical AI to take center stage at Google? OpenAI? Microsoft? Meta? Personally, I don&rsquo;t. #AIHype is what they all do.</p>\n<p><a href=\"https://www.bloomberg.com/news/features/2023-04-19/google-bard-ai-chatbot-raises-ethical-concerns-from-employees\">Google Bard AI Chatbot Raises Ethical Concerns from Employees</a></p>\n",
+				"content_text": "Are we expecting ethical AI to take center stage at Google? OpenAI? Microsoft? Meta? Personally, I don't. #AIHype is what they all do.\r\n\r\n[Google Bard AI Chatbot Raises Ethical Concerns from Employees](https://www.bloomberg.com/news/features/2023-04-19/google-bard-ai-chatbot-raises-ethical-concerns-from-employees)\n",
+				"date_published": "2023-04-23T04:48:45+08:00",
+				"url": "https://my.advocrazy.com/2023/04/23/are-we-expecting.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/04/22/ted-featured-openais.html",
+				
+				"content_html": "<p>TED 2023 featured OpenAI’s ChatGPT to push the #AIHype</p>\n",
+				"content_text": "TED 2023 featured OpenAI’s ChatGPT to push the #AIHype \n",
+				"date_published": "2023-04-22T18:25:50+08:00",
+				"url": "https://my.advocrazy.com/2023/04/22/ted-featured-openais.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2023/04/21/ooohhh-so-elon.html",
 				
 				"content_html": "<p>Ooohhh, so Elon Musk is gifting Twitter Blue Check subscriptions to FRIENDS. That check means you are his friend, right? Member of the Cult of the Space Karen?</p>\n",
