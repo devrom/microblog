@@ -7,6 +7,134 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/05/12/wow-my-brave.html",
+				
+				"content_html": "<p>Wow! My Brave Browser email address, which is unique and not used elsewhere, is now in the hands of spammers and scammers. Thanks Brave!</p>\n",
+				"content_text": "Wow! My Brave Browser email address, which is unique and not used elsewhere, is now in the hands of spammers and scammers. Thanks Brave! \n",
+				"date_published": "2023-05-12T16:42:44+08:00",
+				"url": "https://my.advocrazy.com/2023/05/12/wow-my-brave.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/12/how-much-water.html",
+				
+				"content_html": "<p>How much water and energy are being used to train these models?</p>\n<p><a href=\"https://techcrunch.com/2023/05/11/anthropics-latest-model-can-take-the-great-gatsby-as-input/\">Anthropics has Claude that takes in more tokens than GPT-4</a></p>\n",
+				"content_text": "How much water and energy are being used to train these models?\n\n[Anthropics has Claude that takes in more tokens than GPT-4](https://techcrunch.com/2023/05/11/anthropics-latest-model-can-take-the-great-gatsby-as-input/)\n",
+				"date_published": "2023-05-12T06:40:43+08:00",
+				"url": "https://my.advocrazy.com/2023/05/12/how-much-water.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/12/err-sorry-googles.html",
+				
+				"content_html": "<p>Err, sorry, Google’s RCS is <strong>NOT</strong> a standard.</p>\n<blockquote>\n<p><a href=\"https://artifact.news/s/4ZIDD3uWNBs=\">artifact.news/s/4ZIDD3u&hellip;</a></p>\n</blockquote>\n",
+				"content_text": "Err, sorry, Google’s RCS is **NOT** a standard. \n\n> [artifact.news/s/4ZIDD3u...](https://artifact.news/s/4ZIDD3uWNBs=)\n",
+				"date_published": "2023-05-12T05:29:21+08:00",
+				"url": "https://my.advocrazy.com/2023/05/12/err-sorry-googles.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/11/is-this-the.html",
+				
+				"content_html": "<p>Is this the #Titans series finale?!</p>\n",
+				"content_text": "Is this the #Titans series finale?! \n",
+				"date_published": "2023-05-11T19:27:18+08:00",
+				"url": "https://my.advocrazy.com/2023/05/11/is-this-the.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/11/i-thought-that.html",
+				
+				"content_html": "<p>I thought that this week’s episode is the beginning of more great episodes - but no! This coming episode sucks again! C’mon!</p>\n<p><a href=\"https://www.looper.com/1282592/ted-lasso-season-3-side-character-problem-unfortunately-continues-episode-9/\">What? That side story isn’t dead yet?</a></p>\n",
+				"content_text": "I thought that this week’s episode is the beginning of more great episodes - but no! This coming episode sucks again! C’mon!\n\n[What? That side story isn’t dead yet?](https://www.looper.com/1282592/ted-lasso-season-3-side-character-problem-unfortunately-continues-episode-9/)\n",
+				"date_published": "2023-05-11T17:40:31+08:00",
+				"url": "https://my.advocrazy.com/2023/05/11/i-thought-that.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/11/google-getthemessage-already.html",
+				
+				"content_html": "<p>Google #GetTheMessage already, RCS is <em>not</em> universal, unfortunately SMS still is. Stop whining already!</p>\n",
+				"content_text": "Google #GetTheMessage already, RCS is *not* universal, unfortunately SMS still is. Stop whining already! \n",
+				"date_published": "2023-05-11T08:39:56+08:00",
+				"url": "https://my.advocrazy.com/2023/05/11/google-getthemessage-already.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/10/final-cut-on.html",
+				
+				"content_html": "<p>Final Cut on iPad? Wow! This close to WWDC — they must have it so packed that they’re announcing and releasing new products and updates early to free up time for others.</p>\n<p>iOS 16.5 next week - wonder what will be announced after.</p>\n",
+				"content_text": "Final Cut on iPad? Wow! This close to WWDC — they must have it so packed that they’re announcing and releasing new products and updates early to free up time for others. \n\niOS 16.5 next week - wonder what will be announced after. \n",
+				"date_published": "2023-05-10T16:48:27+08:00",
+				"url": "https://my.advocrazy.com/2023/05/10/final-cut-on.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/10/cloudy-right-now.html",
+				
+				"content_html": "<p>Cloudy right now but it is still above 30C! C’mon!</p>\n",
+				"content_text": "Cloudy right now but it is still above 30C! C’mon! \n",
+				"date_published": "2023-05-10T13:40:42+08:00",
+				"url": "https://my.advocrazy.com/2023/05/10/cloudy-right-now.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/10/installing-ios-rc.html",
+				
+				"content_html": "<p>Installing iOS 16.5 RC on iPhone 12 Pro Max now</p>\n",
+				"content_text": "Installing iOS 16.5 RC on iPhone 12 Pro Max now\n",
+				"date_published": "2023-05-10T09:17:12+08:00",
+				"url": "https://my.advocrazy.com/2023/05/10/installing-ios-rc.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/09/worldcoin-no-f.html",
+				
+				"content_html": "<p>WorldCoin?! No F* way!!!!</p>\n",
+				"content_text": "WorldCoin?! No F* way!!!! \n",
+				"date_published": "2023-05-09T14:54:20+08:00",
+				"url": "https://my.advocrazy.com/2023/05/09/worldcoin-no-f.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/09/how-does-one.html",
+				
+				"content_html": "<blockquote>\n<p>How does one rationalize going to work and pushing out tools that carry such existential risks? Often, the reason given is that these systems also carry huge potential upsides – except that these upsides are, for the most part, hallucinatory. - <a href=\"https://www.theguardian.com/commentisfree/2023/may/08/ai-machines-hallucinating-naomi-klein\">The Guardian</a></p>\n</blockquote>\n<p>How? Being unethical and greedy, that&rsquo;s how. There is a shortage of ethical AI practitioners.</p>\n",
+				"content_text": "> How does one rationalize going to work and pushing out tools that carry such existential risks? Often, the reason given is that these systems also carry huge potential upsides – except that these upsides are, for the most part, hallucinatory. - [The Guardian](https://www.theguardian.com/commentisfree/2023/may/08/ai-machines-hallucinating-naomi-klein)\r\n\r\nHow? Being unethical and greedy, that's how. There is a shortage of ethical AI practitioners.\n",
+				"date_published": "2023-05-09T11:24:28+08:00",
+				"url": "https://my.advocrazy.com/2023/05/09/how-does-one.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/09/i-share-my.html",
+				
+				"content_html": "<p>I share my non-dairy milk experiments with my daughter. Thought of making cashew milk, but she declined (not fond of it). We both agreed that oatmilk &gt; almond milk - while both are healthier than off-the-shelf (far less sugar, I use low GI honey or manuka honey), oatmilk is creamier.</p>\n",
+				"content_text": "I share my non-dairy milk experiments with my daughter. Thought of making cashew milk, but she declined (not fond of it). We both agreed that oatmilk > almond milk - while both are healthier than off-the-shelf (far less sugar, I use low GI honey or manuka honey), oatmilk is creamier. \n",
+				"date_published": "2023-05-09T08:26:34+08:00",
+				"url": "https://my.advocrazy.com/2023/05/09/i-share-my.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/09/is-there-an.html",
+				
+				"content_html": "<p>Is there an open source version that works locally on device?</p>\n<p><a href=\"https://techcrunch.com/2023/05/08/acapela-lets-anyone-back-up-their-own-voice-for-free-in-minutes-just-in-case/\">Acapela lets anyone back up their own voice for free in minutes — just in case - TechCrunch</a></p>\n",
+				"content_text": "Is there an open source version that works locally on device? \n\n[Acapela lets anyone back up their own voice for free in minutes — just in case - TechCrunch](https://techcrunch.com/2023/05/08/acapela-lets-anyone-back-up-their-own-voice-for-free-in-minutes-just-in-case/)\n",
+				"date_published": "2023-05-09T08:22:55+08:00",
+				"url": "https://my.advocrazy.com/2023/05/09/is-there-an.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/08/now-making-almond.html",
+				
+				"content_html": "<p>Now making almond milk for tomorrow&rsquo;s coffee. Need to blitz it twice on the Nutr.</p>\n",
+				"content_text": "Now making almond milk for tomorrow's coffee. Need to blitz it twice on the Nutr.\n",
+				"date_published": "2023-05-08T16:24:50+08:00",
+				"url": "https://my.advocrazy.com/2023/05/08/now-making-almond.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/08/hearing-thunder-cmon.html",
+				
+				"content_html": "<p>Hearing thunder.. c&rsquo;mon, rain! Don&rsquo;t be shy. just 30-40 minutes will do. :)</p>\n",
+				"content_text": "Hearing thunder.. c'mon, rain! Don't be shy. just 30-40 minutes will do. :)\n",
+				"date_published": "2023-05-08T16:24:18+08:00",
+				"url": "https://my.advocrazy.com/2023/05/08/hearing-thunder-cmon.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/08/responsible-and-ethical.html",
+				
+				"content_html": "<p>Responsible and ethical AI needs to triumph over greed-driven ones that we are seeing now.</p>\n<p><a href=\"https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey\">Will A.I. Become the New McKinsey?</a></p>\n",
+				"content_text": "Responsible and ethical AI needs to triumph over greed-driven ones that we are seeing now. \r\n\r\n[Will A.I. Become the New McKinsey?](https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey)\n",
+				"date_published": "2023-05-08T07:58:22+08:00",
+				"url": "https://my.advocrazy.com/2023/05/08/responsible-and-ethical.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2023/05/07/kids-playing-tmnt.html",
 				
 				"content_html": "<p>Kids playing TMNT on #AppleArcade - fun! Karai is whooping their asses hahah</p>\n",
