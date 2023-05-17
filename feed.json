@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/05/17/due-to-the.html",
+				
+				"content_html": "<p>Due to the extreme heat, my iPhone is mostly naked now - specially when charging at night (no, not overnight haha).</p>\n",
+				"content_text": "Due to the extreme heat, my iPhone is mostly naked now - specially when charging at night (no, not overnight haha). \n",
+				"date_published": "2023-05-17T15:57:43+08:00",
+				"url": "https://my.advocrazy.com/2023/05/17/due-to-the.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/15/hmmm-chance-of.html",
+				
+				"content_html": "<p>Hmmm 75% chance of rain today - perfect when it is 30C and feels like 39C now.</p>\n",
+				"content_text": "Hmmm 75% chance of rain today - perfect when it is 30C and feels like 39C now.\n",
+				"date_published": "2023-05-15T08:27:07+08:00",
+				"url": "https://my.advocrazy.com/2023/05/15/hmmm-chance-of.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/14/happy-mothers-day.html",
+				
+				"content_html": "<p>Happy Mother’s Day to all moms out there! 💕</p>\n",
+				"content_text": "Happy Mother’s Day to all moms out there! 💕 \n",
+				"date_published": "2023-05-14T16:43:03+08:00",
+				"url": "https://my.advocrazy.com/2023/05/14/happy-mothers-day.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/13/the-land-of.html",
+				
+				"content_html": "<p>&ldquo;The land of the free&rdquo; should have a footnote - *only for some</p>\n<p>Oh well, America, what&rsquo;s happening to you?</p>\n",
+				"content_text": "\"The land of the free\" should have a footnote - *only for some \r\n\r\nOh well, America, what's happening to you?\n",
+				"date_published": "2023-05-13T07:15:40+08:00",
+				"url": "https://my.advocrazy.com/2023/05/13/the-land-of.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/13/thanks-to-odd.html",
+				
+				"content_html": "<p>Thanks to <a href=\"https://micro.blog/odd\">@odd</a> - got into the domain registrar sinkhole and thought of buying my .prof domain &ndash; but then again, privacy came to mind (don&rsquo;t want to be singled out haha).</p>\n",
+				"content_text": "Thanks to [@odd](https://micro.blog/odd) - got into the domain registrar sinkhole and thought of buying my .prof domain -- but then again, privacy came to mind (don't want to be singled out haha).\n",
+				"date_published": "2023-05-13T06:10:06+08:00",
+				"url": "https://my.advocrazy.com/2023/05/13/thanks-to-odd.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2023/05/12/wow-my-brave.html",
 				
 				"content_html": "<p>Wow! My Brave Browser email address, which is unique and not used elsewhere, is now in the hands of spammers and scammers. Thanks Brave!</p>\n",
