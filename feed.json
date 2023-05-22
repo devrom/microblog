@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/05/23/a-friend-asked.html",
+				
+				"content_html": "<p>A friend asked me what&rsquo;s wrong with Eero? Well, nothing really, but it is just not flexible for my use. The geek in me wants more tweaking and more data, I guess.</p>\n",
+				"content_text": "A friend asked me what's wrong with Eero? Well, nothing really, but it is just not flexible for my use. The geek in me wants more tweaking and more data, I guess. \n",
+				"date_published": "2023-05-23T05:35:20+08:00",
+				"url": "https://my.advocrazy.com/2023/05/23/a-friend-asked.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/22/this-amount-is.html",
+				
+				"content_html": "<p>This amount is still peanuts! The fine needs to hurt for Meta to change.</p>\n<p><a href=\"https://www.theverge.com/2023/5/22/23732461/meta-eu-privacy-fine-us-data-transfers-1-3-billion\">US$1.3 Billion fine is still not enough</a></p>\n",
+				"content_text": "This amount is still peanuts! The fine needs to hurt for Meta to change. \n\n[US$1.3 Billion fine is still not enough](https://www.theverge.com/2023/5/22/23732461/meta-eu-privacy-fine-us-data-transfers-1-3-billion)\n",
+				"date_published": "2023-05-22T17:53:20+08:00",
+				"url": "https://my.advocrazy.com/2023/05/22/this-amount-is.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/22/for-the-next.html",
+				
+				"content_html": "<p>For the next two days, my morning routine will include plucking ripe mangoes off of the tree. LOL.</p>\n",
+				"content_text": "For the next two days, my morning routine will include plucking ripe mangoes off of the tree. LOL. \n",
+				"date_published": "2023-05-22T10:52:27+08:00",
+				"url": "https://my.advocrazy.com/2023/05/22/for-the-next.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/21/thanks-daniel-for.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Thanks, <a href=\"https://micro.blog/danielpunkass\">Daniel</a>, for the MicroCamp promo. Now back to using MarsEdit. :)</p>\n",
+				"date_published": "2023-05-21T16:23:27+08:00",
+				"url": "https://my.advocrazy.com/2023/05/21/thanks-daniel-for.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/20/currently-using-eero.html",
+				
+				"content_html": "<p>Currently using Eero, which I want to ditch soon. Found the UniFi Dream Router as a candidate but WAN is limited to 700Mbps only. Checking out TP-Link Deco X50/55 - are these any good?! This will be deployed behind a Firewalla IPS/IDS router.</p>\n",
+				"content_text": "Currently using Eero, which I want to ditch soon. Found the UniFi Dream Router as a candidate but WAN is limited to 700Mbps only. Checking out TP-Link Deco X50/55 - are these any good?! This will be deployed behind a Firewalla IPS/IDS router. \n",
+				"date_published": "2023-05-20T08:57:37+08:00",
+				"url": "https://my.advocrazy.com/2023/05/20/currently-using-eero.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/19/ios-ipados-watchos.html",
+				
+				"content_html": "<p>iOS 16.5, iPadOS 16.5, watchOS 9.5, MacOS 13.4 and tvOS 16.5 are now out! Here we go&hellip; back-up and upgrade now! actively exploited vulnerabilities patched!</p>\n",
+				"content_text": "iOS 16.5, iPadOS 16.5, watchOS 9.5, MacOS 13.4 and tvOS 16.5 are now out! Here we go... back-up and upgrade now! actively exploited vulnerabilities patched!\n",
+				"date_published": "2023-05-19T05:16:13+08:00",
+				"url": "https://my.advocrazy.com/2023/05/19/ios-ipados-watchos.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2023/05/17/due-to-the.html",
 				
 				"content_html": "<p>Due to the extreme heat, my iPhone is mostly naked now - specially when charging at night (no, not overnight haha).</p>\n",
