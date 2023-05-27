@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/05/28/aidoomers-rejoice-you.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>#AIDoomers rejoice! You have been debunked yet again! Bwahahaha #SALAMI </p>\n\n<p>[dair-community.social/@emilymbe...](https://dair-community.social/@emilymbender/110442148445686947)</p>\n",
+				"date_published": "2023-05-28T07:40:56+08:00",
+				"url": "https://my.advocrazy.com/2023/05/28/aidoomers-rejoice-you.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/24/190434.html",
+				
+				"content_html": "<p>This week’s #TedLasso episode is superbly done! Watch it, you might shed a tear or two. 😂#AppleTV+</p>\n",
+				"content_text": "This week’s #TedLasso episode is superbly done! Watch it, you might shed a tear or two. 😂#AppleTV+ \n",
+				"date_published": "2023-05-24T19:04:34+08:00",
+				"url": "https://my.advocrazy.com/2023/05/24/190434.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/24/this-weeks-tedlasso.html",
+				
+				"content_html": "<p>This week’s #TedLasso episode is superbly done! Watch it, you might shed a tear or two. 😢 #AppleTV+</p>\n",
+				"content_text": "This week’s #TedLasso episode is superbly done! Watch it, you might shed a tear or two. 😢 #AppleTV+ \n",
+				"date_published": "2023-05-24T19:03:26+08:00",
+				"url": "https://my.advocrazy.com/2023/05/24/this-weeks-tedlasso.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/24/upgraded-my-ivory.html",
+				
+				"content_html": "<p>Upgraded my Ivory subscription to Universal. w00t!</p>\n",
+				"content_text": "Upgraded my Ivory subscription to Universal. w00t! \n",
+				"date_published": "2023-05-24T11:17:52+08:00",
+				"url": "https://my.advocrazy.com/2023/05/24/upgraded-my-ivory.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2023/05/23/a-friend-asked.html",
 				
 				"content_html": "<p>A friend asked me what&rsquo;s wrong with Eero? Well, nothing really, but it is just not flexible for my use. The geek in me wants more tweaking and more data, I guess.</p>\n",
