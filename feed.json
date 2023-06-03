@@ -7,6 +7,104 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/06/03/the-sonos-roam.html",
+				
+				"content_html": "<p>The Sonos Roam sale is really tempting, but WWDC is next week. Not that I can afford that visor, but there may be other new hardware releases, too. :)</p>\n",
+				"content_text": "The Sonos Roam sale is really tempting, but WWDC is next week. Not that I can afford that visor, but there may be other new hardware releases, too. :)\n",
+				"date_published": "2023-06-03T10:11:30+08:00",
+				"url": "https://my.advocrazy.com/2023/06/03/the-sonos-roam.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/06/02/with-our-content.html",
+				
+				"content_html": "<p>With our content not being protected by copyright and abused by the likes of OpenAI, is having a paywall the way to go? If not, how are we combatting these abusers? Yeah, I know about open content and copyleft, but shouldn&rsquo;t these abusers be kept in check, too?</p>\n",
+				"content_text": "With our content not being protected by copyright and abused by the likes of OpenAI, is having a paywall the way to go? If not, how are we combatting these abusers? Yeah, I know about open content and copyleft, but shouldn't these abusers be kept in check, too?\n",
+				"date_published": "2023-06-02T06:54:19+08:00",
+				"url": "https://my.advocrazy.com/2023/06/02/with-our-content.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/06/01/if-you-are.html",
+				
+				"content_html": "<p>If you are a student in this <a href=\"https://up.edu.ph\">university</a>, avoid having your photo taken here or your graduation will be jinxed!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "If you are a student in this [university](https://up.edu.ph), avoid having your photo taken here or your graduation will be jinxed! \n\n<img src=\"https://rom-test.micro.blog/uploads/2023/7637eaf206.jpg\" width=\"450\" height=\"600\" alt=\"View from the back of the Oblation (statue of a man with outstretched arms facing the sky) flanked by the flags of the university and the Philippines on each side. \">\n",
+				"date_published": "2023-06-01T16:46:02+08:00",
+				"url": "https://my.advocrazy.com/2023/06/01/if-you-are.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/06/01/wow-back-in.html",
+				
+				"content_html": "<p>Wow! Back in the day, I used to buy Gigabyte motherboards.</p>\n<p>Now I need to check our current inventory if there are Gigabyte motherboards in the office. Tsk tsk.</p>\n<p><a href=\"https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/\">Gigabyte motherboards phone home</a></p>\n",
+				"content_text": "Wow! Back in the day, I used to buy Gigabyte motherboards. \r\n\r\nNow I need to check our current inventory if there are Gigabyte motherboards in the office. Tsk tsk.\r\n\r\n[Gigabyte motherboards phone home](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)\n",
+				"date_published": "2023-06-01T07:08:08+08:00",
+				"url": "https://my.advocrazy.com/2023/06/01/wow-back-in.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/31/did-i-hear.html",
+				
+				"content_html": "<p>Did I hear that right? Mr. Boimler?  #StarTrek:StrangeNewWorld 🖖</p>\n",
+				"content_text": "Did I hear that right? Mr. Boimler?  #StarTrek:StrangeNewWorld 🖖\n",
+				"date_published": "2023-05-31T07:30:55+08:00",
+				"url": "https://my.advocrazy.com/2023/05/31/did-i-hear.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/31/sipping-black-coffee.html",
+				
+				"content_html": "<p>Sipping black coffee (yeah, was too lazy to make my oatmilk) whilst waiting for my class to start. :)</p>\n",
+				"content_text": "Sipping black coffee (yeah, was too lazy to make my oatmilk) whilst waiting for my class to start. :)\n",
+				"date_published": "2023-05-31T07:24:44+08:00",
+				"url": "https://my.advocrazy.com/2023/05/31/sipping-black-coffee.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/30/watching-the-bbc.html",
+				
+				"content_html": "<p>Watching the BBC documentary, “India: the Modi Question”. #tv</p>\n",
+				"content_text": "Watching the BBC documentary, “India: the Modi Question”. #tv \n",
+				"date_published": "2023-05-30T18:14:58+08:00",
+				"url": "https://my.advocrazy.com/2023/05/30/watching-the-bbc.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/29/sorry-but-i.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Sorry but I just blocked .ZIP and .MOV domains off of my home network. </p>\n",
+				"date_published": "2023-05-29T15:54:43+08:00",
+				"url": "https://my.advocrazy.com/2023/05/29/sorry-but-i.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/29/looking-for-selfhosted.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Looking for self-hosted AirTable alternative and have narrowed it down to two - BaseRow.io and Nocodb.com - comments? feedback? reactions? other recommendations? </p>\n",
+				"date_published": "2023-05-29T09:25:55+08:00",
+				"url": "https://my.advocrazy.com/2023/05/29/looking-for-selfhosted.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/29/this-week-we.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>This week, we will see the finale of #Succession and #TedLasso. We’re sure that it is Succession’s series finale. As for Ted Lasso, sure hope there are more seasons to come. </p>\n",
+				"date_published": "2023-05-29T08:06:18+08:00",
+				"url": "https://my.advocrazy.com/2023/05/29/this-week-we.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/29/i-wont-be.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I won’t be surprised if a lot of Philippine government sites do the same. </p>\n\n<p><a href=\"https://www.theguardian.com/society/2023/may/27/nhs-data-breach-trusts-shared-patient-details-with-facebook-meta-without-consent\">Government shares patient details with Meta</a></p>\n",
+				"date_published": "2023-05-29T06:28:11+08:00",
+				"url": "https://my.advocrazy.com/2023/05/29/i-wont-be.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/05/28/it-just-hit.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>It just hit me - if LLMs can generate legal documents and “hallucitate” on legal precedents, the same can be done on academic papers (already read some researchers getting requests for copy of papers they never wrote). Definitely adds another layer of complexity when reviewing papers for conferences and journals! #SALAMI #AIHype </p>\n",
+				"date_published": "2023-05-28T07:52:52+08:00",
+				"url": "https://my.advocrazy.com/2023/05/28/it-just-hit.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2023/05/28/aidoomers-rejoice-you.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
