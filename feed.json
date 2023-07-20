@@ -7,6 +7,79 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/07/20/heard-that-kevin.html",
+				
+				"content_html": "<p>Heard that Kevin Mitnick had died of pancreatic cancer. #RestInPeace</p>\n",
+				"content_text": "Heard that Kevin Mitnick had died of pancreatic cancer. #RestInPeace \n",
+				"date_published": "2023-07-20T09:20:51+08:00",
+				"url": "https://my.advocrazy.com/2023/07/20/heard-that-kevin.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/07/16/now-thats-a.html",
+				
+				"content_html": "<p>Now that&rsquo;s a fail! <a href=\"https://umbrel.com\">Umbrel</a> does not recognize my external Crucial SSD. Tsk tsk. It is very particular with the make and model of the external storage. Boo!</p>\n",
+				"content_text": "Now that's a fail! [Umbrel](https://umbrel.com) does not recognize my external Crucial SSD. Tsk tsk. It is very particular with the make and model of the external storage. Boo!\n",
+				"date_published": "2023-07-16T09:02:02+08:00",
+				"url": "https://my.advocrazy.com/2023/07/16/now-thats-a.html",
+				"tags": ["Linux"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/07/16/raining-so-i.html",
+				
+				"content_html": "<p>Raining&hellip; so I can&rsquo;t go out&hellip; tinkering with Umbrel instead. Bwahaha</p>\n",
+				"content_text": "Raining... so I can't go out... tinkering with Umbrel instead. Bwahaha\n",
+				"date_published": "2023-07-16T08:44:48+08:00",
+				"url": "https://my.advocrazy.com/2023/07/16/raining-so-i.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/07/16/another-day-of.html",
+				
+				"content_html": "<p>Another day of continuous rain&hellip;</p>\n",
+				"content_text": "Another day of continuous rain...\n",
+				"date_published": "2023-07-16T07:48:56+08:00",
+				"url": "https://my.advocrazy.com/2023/07/16/another-day-of.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/07/16/i-am-sure.html",
+				
+				"content_html": "<p>I am sure Brave will do something about this &ndash; after they&rsquo;ve been caught doing questionable things&hellip; <a href=\"https://www.androidpolice.com/2020/06/07/brave-browser-caught-adding-its-own-referral-codes-to-some-cryptcurrency-trading-sites/\">again</a>!</p>\n<p><a href=\"https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/\">Is Brave selling copyrighted data for AI training?</a></p>\n",
+				"content_text": "I am sure Brave will do something about this -- after they've been caught doing questionable things... [again](https://www.androidpolice.com/2020/06/07/brave-browser-caught-adding-its-own-referral-codes-to-some-cryptcurrency-trading-sites/)!\r\n\r\n[Is Brave selling copyrighted data for AI training?](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)\n",
+				"date_published": "2023-07-16T06:55:52+08:00",
+				"url": "https://my.advocrazy.com/2023/07/16/i-am-sure.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/07/15/how-to-make.html",
+				
+				"content_html": "<p>How to make sure your users continue contributing content, Reddit style.</p>\n<p><a href=\"https://mashable.com/article/reddit-removes-live-chat-archives-messages\">Reddit removes users' chat and message archive</a></p>\n",
+				"content_text": "How to make sure your users continue contributing content, Reddit style.\r\n\r\n[Reddit removes users' chat and message archive](https://mashable.com/article/reddit-removes-live-chat-archives-messages)\n",
+				"date_published": "2023-07-15T09:33:09+08:00",
+				"url": "https://my.advocrazy.com/2023/07/15/how-to-make.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/07/14/sonoma-beta-on.html",
+				
+				"content_html": "<p>Sonoma beta on Mac Mini now. First - add widgets. LOL</p>\n",
+				"content_text": "Sonoma beta on Mac Mini now. First - add widgets. LOL\n",
+				"date_published": "2023-07-14T09:29:00+08:00",
+				"url": "https://my.advocrazy.com/2023/07/14/sonoma-beta-on.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/07/14/sonoma-beta-is.html",
+				
+				"content_html": "<p>Sonoma beta is calling me&hellip; should I or should I not? :)</p>\n",
+				"content_text": "Sonoma beta is calling me... should I or should I not? :)\n",
+				"date_published": "2023-07-14T07:07:43+08:00",
+				"url": "https://my.advocrazy.com/2023/07/14/sonoma-beta-is.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/07/13/weather-today-says.html",
+				
+				"content_html": "<p>Weather today says RAIN the entire day. I love the rain, but I hate bringing brollies. Tsk tsk</p>\n",
+				"content_text": "Weather today says RAIN the entire day. I love the rain, but I hate bringing brollies. Tsk tsk \n",
+				"date_published": "2023-07-13T07:50:47+08:00",
+				"url": "https://my.advocrazy.com/2023/07/13/weather-today-says.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2023/07/12/it-is-a.html",
 				
 				"content_html": "<p>It is a company with ties to its government, right? Are you expecting something else?</p>\n<p><a href=\"https://www.theguardian.com/australia-news/2023/jul/11/tiktok-executive-admits-australian-users-data-accessed-by-employees-in-china\">Tiktok employees in China have access to users' data</a></p>\n",
@@ -44,7 +117,7 @@
 				"id": "http://rom.micro.blog/2023/07/09/i-saw-this.html",
 				
 				"content_html": "<p>I saw this earlier and wondered where this critter is heading to.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I saw this earlier and wondered where this critter is heading to. \n\n<img src=\"uploads/2023/5d869740d9.jpg\" width=\"600\" height=\"450\" alt=\"Asian millipede coasting through a bed of dried grass \">\n",
+				"content_text": "I saw this earlier and wondered where this critter is heading to. \n\n<img src=\"https://cdn.uploads.micro.blog/1135/2023/5d869740d9.jpg\" width=\"600\" height=\"450\" alt=\"Asian millipede coasting through a bed of dried grass \">\n",
 				"date_published": "2023-07-09T08:48:30+08:00",
 				"url": "https://my.advocrazy.com/2023/07/09/i-saw-this.html",
 				"tags": ["photos"]
