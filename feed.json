@@ -7,6 +7,202 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/08/23/inside-a-function.html",
+				
+				"content_html": "<p>Inside a function room. 😷 up! Am with an N95 mask on now.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inside a function room. 😷 up! Am with an N95 mask on now. \n\n<img src=\"uploads/2023/70209e907d.jpg\" width=\"450\" height=\"600\" alt=\"Aranet4 reading 1420 beside an iPad Mini and a coffee cup in the background \">\n",
+				"date_published": "2023-08-23T10:41:47+08:00",
+				"url": "https://my.advocrazy.com/2023/08/23/inside-a-function.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/21/friends-in-california.html",
+				
+				"content_html": "<p>Friends in California - hope you guys are all OK.</p>\n",
+				"content_text": "Friends in California - hope you guys are all OK.\n",
+				"date_published": "2023-08-21T05:52:47+08:00",
+				"url": "https://my.advocrazy.com/2023/08/21/friends-in-california.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/20/spain-wins-the.html",
+				
+				"content_html": "<p>Spain wins the Women’s World Cup 2023 1-0 over England. #WWC</p>\n",
+				"content_text": "Spain wins the Women’s World Cup 2023 1-0 over England. #WWC \n",
+				"date_published": "2023-08-20T20:05:01+08:00",
+				"url": "https://my.advocrazy.com/2023/08/20/spain-wins-the.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/20/spain-gets-first.html",
+				
+				"content_html": "<p>Spain gets first goal 1-0 England #WWC</p>\n",
+				"content_text": "Spain gets first goal 1-0 England #WWC\n",
+				"date_published": "2023-08-20T18:31:53+08:00",
+				"url": "https://my.advocrazy.com/2023/08/20/spain-gets-first.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/20/hiit-on-applefitnessplus.html",
+				
+				"content_html": "<p>HIIT on #AppleFitnessPlus is great specially when done with youngest daughter!</p>\n",
+				"content_text": "HIIT on #AppleFitnessPlus is great specially when done with youngest daughter! \n",
+				"date_published": "2023-08-20T08:58:52+08:00",
+				"url": "https://my.advocrazy.com/2023/08/20/hiit-on-applefitnessplus.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/20/wwc-finals-in.html",
+				
+				"content_html": "<p>#WWC Finals in less than 12 hours - who are you rooting for - England or Spain?</p>\n",
+				"content_text": "#WWC Finals in less than 12 hours - who are you rooting for - England or Spain? \n",
+				"date_published": "2023-08-20T07:39:14+08:00",
+				"url": "https://my.advocrazy.com/2023/08/20/wwc-finals-in.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/20/i-have-password.html",
+				
+				"content_html": "<p>I have 1Password, iCloud Password, and ProtonPass. Do I mirror accounts on all three? Oh,  I also have Bitwarden on the GrapheneOS Pixel 5a. Tsk tsk.</p>\n",
+				"content_text": "I have 1Password, iCloud Password, and ProtonPass. Do I mirror accounts on all three? Oh,  I also have Bitwarden on the GrapheneOS Pixel 5a. Tsk tsk.\n",
+				"date_published": "2023-08-20T07:36:13+08:00",
+				"url": "https://my.advocrazy.com/2023/08/20/i-have-password.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/20/if-you-encounter.html",
+				
+				"content_html": "<p>If you encounter a paywalled article and don&rsquo;t have a way to access it without paying (or using Apple News - this works sometimes), try this Shortcut. It might help.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "If you encounter a paywalled article and don't have a way to access it without paying (or using Apple News - this works sometimes), try this Shortcut. It might help. \n\n<img src=\"https://cdn.uploads.micro.blog/1135/2023/screenshot-2023-08-20-at-7.01.49am.png\" width=\"600\" height=\"270\" alt=\"iOS/iPadOS/MacOS Shortcut that appends 12ft.io to a paywalled URL and tries to go around the wall.\">\n",
+				"date_published": "2023-08-20T07:04:52+08:00",
+				"url": "https://my.advocrazy.com/2023/08/20/if-you-encounter.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/19/would-have-been.html",
+				
+				"content_html": "<p>Would have been fun to see Australia’s Matildas vs the Philippines’ Malditas. #WWC</p>\n",
+				"content_text": "Would have been fun to see Australia’s Matildas vs the Philippines’ Malditas. #WWC \n",
+				"date_published": "2023-08-19T17:48:22+08:00",
+				"url": "https://my.advocrazy.com/2023/08/19/would-have-been.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/19/just-got-back.html",
+				
+				"content_html": "<p>Just got back to check the score and it is now 2-0 Sweden. With a little more than 10 minutes to go, Australia needs to equalize soon. #WWC</p>\n",
+				"content_text": "Just got back to check the score and it is now 2-0 Sweden. With a little more than 10 minutes to go, Australia needs to equalize soon. #WWC\n",
+				"date_published": "2023-08-19T17:44:56+08:00",
+				"url": "https://my.advocrazy.com/2023/08/19/just-got-back.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/19/penalty-kick-gives.html",
+				
+				"content_html": "<p>Penalty kick gives Sweden 1-0 advantage over Australia #WWC</p>\n",
+				"content_text": "Penalty kick gives Sweden 1-0 advantage over Australia #WWC\n",
+				"date_published": "2023-08-19T16:34:38+08:00",
+				"url": "https://my.advocrazy.com/2023/08/19/penalty-kick-gives.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/19/note-to-self.html",
+				
+				"content_html": "<p>Note to self: do not buy an Apple Watch band. Wait after Apple announcement of Watch Series 9.</p>\n",
+				"content_text": "Note to self: do not buy an Apple Watch band. Wait after Apple announcement of Watch Series 9. \n",
+				"date_published": "2023-08-19T15:40:21+08:00",
+				"url": "https://my.advocrazy.com/2023/08/19/note-to-self.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/19/pixel-a-running.html",
+				
+				"content_html": "<p>Pixel 5A running GrapheneOS keeps on disconnecting from the mobile network, but rebooting it re-connects. What gives? It is running the latest GrapheneOS for Pixel 5a.</p>\n",
+				"content_text": "Pixel 5A running GrapheneOS keeps on disconnecting from the mobile network, but rebooting it re-connects. What gives? It is running the latest GrapheneOS for Pixel 5a.\n",
+				"date_published": "2023-08-19T08:24:23+08:00",
+				"url": "https://my.advocrazy.com/2023/08/19/pixel-a-running.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/18/really-hope-this.html",
+				
+				"content_html": "<p>Really hope this pushes through and gets a verdict in favor of NYT. Not a fan of NYT, but here, I’m on their side. LOL</p>\n<p><a href=\"https://arstechnica.com/tech-policy/2023/08/report-potential-nyt-lawsuit-could-force-openai-to-wipe-chatgpt-and-start-over/\">NYT vs OpenAI?</a></p>\n",
+				"content_text": "Really hope this pushes through and gets a verdict in favor of NYT. Not a fan of NYT, but here, I’m on their side. LOL\n\n[NYT vs OpenAI?](https://arstechnica.com/tech-policy/2023/08/report-potential-nyt-lawsuit-could-force-openai-to-wipe-chatgpt-and-start-over/)\n",
+				"date_published": "2023-08-18T18:59:00+08:00",
+				"url": "https://my.advocrazy.com/2023/08/18/really-hope-this.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/18/foundation-time-appletv.html",
+				
+				"content_html": "<p>Foundation time #AppleTV+</p>\n",
+				"content_text": "Foundation time #AppleTV+ \n",
+				"date_published": "2023-08-18T18:33:49+08:00",
+				"url": "https://my.advocrazy.com/2023/08/18/foundation-time-appletv.html",
+				"tags": ["TV and Movies"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/18/a-big-box.html",
+				
+				"content_html": "<p>A big box with 2 bags of Kelloggs Special K Red Berries for only US$0.50 at the local sale is a good deal for those times we are lazy to make breakfast. LOL.</p>\n",
+				"content_text": "A big box with 2 bags of Kelloggs Special K Red Berries for only US$0.50 at the local sale is a good deal for those times we are lazy to make breakfast. LOL. \n",
+				"date_published": "2023-08-18T13:30:29+08:00",
+				"url": "https://my.advocrazy.com/2023/08/18/a-big-box.html",
+				"tags": ["food"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/17/what-nothing-from.html",
+				
+				"content_html": "<p>What? Nothing from the #StarTrek Universe today?!</p>\n",
+				"content_text": "What? Nothing from the #StarTrek Universe today?! \n",
+				"date_published": "2023-08-17T15:56:31+08:00",
+				"url": "https://my.advocrazy.com/2023/08/17/what-nothing-from.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/17/just-found-out.html",
+				
+				"content_html": "<p>Just found out that Anker&rsquo;s Magsafe battery pack can be turned off (magsafe charging) but USB-C charging is still active. Nice!</p>\n",
+				"content_text": "Just found out that Anker's Magsafe battery pack can be turned off (magsafe charging) but USB-C charging is still active. Nice! \n",
+				"date_published": "2023-08-17T11:19:19+08:00",
+				"url": "https://my.advocrazy.com/2023/08/17/just-found-out.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/17/ok-so-ms.html",
+				
+				"content_html": "<p>OK. So MS Teams on GrapheneOS works. I have a device to use to join meetings now. WebEx trial ending soon and I don&rsquo;t like using GREEDY ZOOM.</p>\n",
+				"content_text": "OK. So MS Teams on GrapheneOS works. I have a device to use to join meetings now. WebEx trial ending soon and I don't like using GREEDY ZOOM.\n",
+				"date_published": "2023-08-17T10:08:07+08:00",
+				"url": "https://my.advocrazy.com/2023/08/17/ok-so-ms.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/17/who-has-tried.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>who has tried MS Teams on Linux? Feedback? Is it any good? Does it have virtual background?</p>\n",
+				"date_published": "2023-08-17T08:16:36+08:00",
+				"url": "https://my.advocrazy.com/2023/08/17/who-has-tried.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/17/looking-for-assistance.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Looking for assistance in setting up Google Workspace so I can run “curl” to do queries as admin. No, I don’t want to use GAM. Help. </p>\n",
+				"date_published": "2023-08-17T07:22:32+08:00",
+				"url": "https://my.advocrazy.com/2023/08/17/looking-for-assistance.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/16/in-other-news.html",
+				
+				"content_html": "<p>In other news, watchOS 9.6.1 is now available.</p>\n",
+				"content_text": "In other news, watchOS 9.6.1 is now available. \n",
+				"date_published": "2023-08-16T19:58:05+08:00",
+				"url": "https://my.advocrazy.com/2023/08/16/in-other-news.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/16/spain-vs-england.html",
+				
+				"content_html": "<p>Spain vs England in the finals #WWC</p>\n",
+				"content_text": "Spain vs England in the finals #WWC\n",
+				"date_published": "2023-08-16T19:54:29+08:00",
+				"url": "https://my.advocrazy.com/2023/08/16/spain-vs-england.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/08/16/last-minutes-wwc.html",
+				
+				"content_html": "<p>Last 6 minutes… #WWC England 3-1 Australia</p>\n",
+				"content_text": "Last 6 minutes… #WWC England 3-1 Australia \n",
+				"date_published": "2023-08-16T19:48:55+08:00",
+				"url": "https://my.advocrazy.com/2023/08/16/last-minutes-wwc.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2023/08/16/thats-it-for.html",
 				
 				"content_html": "<p>That’s it for Australia. England’s 3-1 lead. #WWC</p>\n",
