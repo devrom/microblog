@@ -7,6 +7,154 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/10/06/how-to-get.html",
+				
+				"content_html": "<p>How to get people interested in Threads? Open source it so developers can remove everything Meta off of it. LOL</p>\n<p><a href=\"https://www.theinformation.com/articles/instagram-looks-for-ways-to-revive-interest-in-threads\">Instagram looks for ways to revive interest in Threads</a></p>\n",
+				"content_text": "How to get people interested in Threads? Open source it so developers can remove everything Meta off of it. LOL\r\n\r\n[Instagram looks for ways to revive interest in Threads](https://www.theinformation.com/articles/instagram-looks-for-ways-to-revive-interest-in-threads)\n",
+				"date_published": "2023-10-06T07:11:56+08:00",
+				"url": "https://my.advocrazy.com/2023/10/06/how-to-get.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/06/sorry-but-id.html",
+				
+				"content_html": "<p>Sorry, but I&rsquo;d rather stick with what originally photography is, than creating &ldquo;my own memory&rdquo; of things that did not happen.</p>\n<blockquote>\n<p>Pixel phone photography is racing ahead to a world where images reflect moments that never actually were. Is the purpose of a camera to capture things as they were, or as they should have been?</p>\n<p>Is that dishonest? Is all of digital photography headed in this direction, inevitably, and Google is just willing to blaze the trail that everyone else will soon enough follow? I don’t know. But it was the segment of yesterday’s event that most struck me: technically impressible, but ethically blithe.\n&ndash; <a href=\"https://daringfireball.net/2023/10/googles_pixel_8_event\">John Gruber</a></p>\n</blockquote>\n",
+				"content_text": "Sorry, but I'd rather stick with what originally photography is, than creating \"my own memory\" of things that did not happen.\r\n\r\n> Pixel phone photography is racing ahead to a world where images reflect moments that never actually were. Is the purpose of a camera to capture things as they were, or as they should have been?\r\n>\r\n> Is that dishonest? Is all of digital photography headed in this direction, inevitably, and Google is just willing to blaze the trail that everyone else will soon enough follow? I don’t know. But it was the segment of yesterday’s event that most struck me: technically impressible, but ethically blithe.\r\n> -- [John Gruber](https://daringfireball.net/2023/10/googles_pixel_8_event)\n",
+				"date_published": "2023-10-06T06:38:38+08:00",
+				"url": "https://my.advocrazy.com/2023/10/06/sorry-but-id.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/06/chromeos-is-linux.html",
+				
+				"content_html": "<p>ChromeOS is Linux with all the trackers you can think of baked in. LOL</p>\n",
+				"content_text": "ChromeOS is Linux with all the trackers you can think of baked in. LOL\n",
+				"date_published": "2023-10-06T06:19:35+08:00",
+				"url": "https://my.advocrazy.com/2023/10/06/chromeos-is-linux.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/06/have-you-tried.html",
+				
+				"content_html": "<p>Have you tried Vivaldi for iPadOS on the Mac?</p>\n",
+				"content_text": "Have you tried Vivaldi for iPadOS on the Mac?\n",
+				"date_published": "2023-10-06T06:00:57+08:00",
+				"url": "https://my.advocrazy.com/2023/10/06/have-you-tried.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/06/computational-photography-is.html",
+				
+				"content_html": "<p>Computational photography - is it still photography if the resulting image is not even close to reality? Shouldn&rsquo;t we differentiate synthetic images (using generative SALAMI) from photos?</p>\n",
+				"content_text": "Computational photography - is it still photography if the resulting image is not even close to reality? Shouldn't we differentiate synthetic images (using generative SALAMI) from photos?\n",
+				"date_published": "2023-10-06T05:55:40+08:00",
+				"url": "https://my.advocrazy.com/2023/10/06/computational-photography-is.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/05/latest-google-pixel.html",
+				
+				"content_html": "<p>Latest Google Pixel brings Adobe Firefly to your camera phone - you might as well just give it a prompt than shoot a photo. LOL.</p>\n",
+				"content_text": "Latest Google Pixel brings Adobe Firefly to your camera phone - you might as well just give it a prompt than shoot a photo. LOL. \n",
+				"date_published": "2023-10-05T16:53:12+08:00",
+				"url": "https://my.advocrazy.com/2023/10/05/latest-google-pixel.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/05/vivaldi-for-ios.html",
+				
+				"content_html": "<p>Vivaldi for iOS is based on WebKit - now why don’t you completely ditch Chrome for all the desktop versions and stick with WebKit all through out?!</p>\n<p><a href=\"https://bgr.com/tech/vivaldi-for-ios-wants-to-convince-you-the-best-browser-has-finally-arrived/\">Vivaldi for iOS</a></p>\n",
+				"content_text": "Vivaldi for iOS is based on WebKit - now why don’t you completely ditch Chrome for all the desktop versions and stick with WebKit all through out?! \n\n[Vivaldi for iOS](https://bgr.com/tech/vivaldi-for-ios-wants-to-convince-you-the-best-browser-has-finally-arrived/)\n",
+				"date_published": "2023-10-05T15:25:47+08:00",
+				"url": "https://my.advocrazy.com/2023/10/05/vivaldi-for-ios.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/04/yes-i-have.html",
+				
+				"content_html": "<p>Yes, I have stopped using Google Search as my main search engine  a long time ago. Right now, DuckDuckGo/Bing provides me with adequate results, but planning to augment it with others later. NO, not any of thoes LLMs.</p>\n<p><a href=\"https://www.wired.com/story/google-antitrust-lawsuit-search-results/\">Google altering your search queries to maximize THEIR profit?</a></p>\n",
+				"content_text": "Yes, I have stopped using Google Search as my main search engine  a long time ago. Right now, DuckDuckGo/Bing provides me with adequate results, but planning to augment it with others later. NO, not any of thoes LLMs.\r\n\r\n[Google altering your search queries to maximize THEIR profit?](https://www.wired.com/story/google-antitrust-lawsuit-search-results/)\n",
+				"date_published": "2023-10-04T06:20:41+08:00",
+				"url": "https://my.advocrazy.com/2023/10/04/yes-i-have.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/04/meta-to-offer.html",
+				
+				"content_html": "<p>Meta to offer paid services for ad-free experience in the EU? Well, it is not about the adverts, it is about the data collection. Subscription != no data collection. Sneaky, Meta.</p>\n<p><a href=\"https://www.theguardian.com/technology/2023/oct/03/facebook-instagram-charge-ad-free-eu-meta-mobile-desktop\">Meta to charge for Facebook and Instagram in EU?</a></p>\n",
+				"content_text": "Meta to offer paid services for ad-free experience in the EU? Well, it is not about the adverts, it is about the data collection. Subscription != no data collection. Sneaky, Meta.\r\n\r\n[Meta to charge for Facebook and Instagram in EU?](https://www.theguardian.com/technology/2023/oct/03/facebook-instagram-charge-ad-free-eu-meta-mobile-desktop)\n",
+				"date_published": "2023-10-04T06:11:21+08:00",
+				"url": "https://my.advocrazy.com/2023/10/04/meta-to-offer.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/03/season-finale-of.html",
+				
+				"content_html": "<p>Season finale of Only Murders in the Building and there’s another murder in the last scene. Another season coming - bring it on! 📺</p>\n",
+				"content_text": "Season finale of Only Murders in the Building and there’s another murder in the last scene. Another season coming - bring it on! 📺\n",
+				"date_published": "2023-10-03T19:13:03+08:00",
+				"url": "https://my.advocrazy.com/2023/10/03/season-finale-of.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/03/still-trying-to.html",
+				
+				"content_html": "<p>Still trying to figure out why I am not getting any text from posting a bookmark using Micro.blog API. I can post, no issue, but nothing is being returned. Any ideas, <a href=\"https://micro.blog/vincent\">@vincent</a></p>\n",
+				"content_text": "Still trying to figure out why I am not getting any text from posting a bookmark using Micro.blog API. I can post, no issue, but nothing is being returned. Any ideas, [@vincent](https://micro.blog/vincent) \n",
+				"date_published": "2023-10-03T11:24:29+08:00",
+				"url": "https://my.advocrazy.com/2023/10/03/still-trying-to.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/03/surprise-visit-from.html",
+				
+				"content_html": "<p>Surprise visit from some alien world? #shotoniPhone</p>\n<p><img src=\"https://live.staticflickr.com/65535/53230846729_d6dc4ba5c5.jpg\" alt=\"Some weird mushroom\" title=\"Fun-Guy\"></p>\n<p><a href=\"https://flic.kr/p/2p6Q1ct\">posted on Flickr</a></p>\n",
+				"content_text": "Surprise visit from some alien world? #shotoniPhone \r\n\r\n![Some weird mushroom](https://live.staticflickr.com/65535/53230846729_d6dc4ba5c5.jpg \"Fun-Guy\")\r\n\r\n[posted on Flickr](https://flic.kr/p/2p6Q1ct)\n",
+				"date_published": "2023-10-03T11:20:12+08:00",
+				"url": "https://my.advocrazy.com/2023/10/03/surprise-visit-from.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/02/you-know-what.html",
+				
+				"content_html": "<p>You know what would be great is if Signal implements its own e2ee RCS support (like SMS before) and offers it to telcos for free.</p>\n",
+				"content_text": "You know what would be great is if Signal implements its own e2ee RCS support (like SMS before) and offers it to telcos for free. \n",
+				"date_published": "2023-10-02T14:28:58+08:00",
+				"url": "https://my.advocrazy.com/2023/10/02/you-know-what.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/02/oh-hey-my.html",
+				
+				"content_html": "<p>Oh hey! My Micro.blog subscription just renewed for another year! Yeah! 💪🏼</p>\n",
+				"content_text": "Oh hey! My Micro.blog subscription just renewed for another year! Yeah! 💪🏼\n",
+				"date_published": "2023-10-02T07:12:03+08:00",
+				"url": "https://my.advocrazy.com/2023/10/02/oh-hey-my.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/01/bwphotography-shotoniphone-upfight.html",
+				
+				"content_html": "<p>#bwphotography #shotoniphone #UPFight</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#bwphotography #shotoniphone #UPFight \n\n<img src=\"https://cdn.uploads.micro.blog/1135/2023/47d0ae0fd9.jpg\" width=\"600\" height=\"279\" alt=\"Black and white panorama shot of a football field from the point of view of someone from the grandstand \">\n",
+				"date_published": "2023-10-01T19:43:33+08:00",
+				"url": "https://my.advocrazy.com/2023/10/01/bwphotography-shotoniphone-upfight.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/01/bwphotography-shotoniphone.html",
+				
+				"content_html": "<p>#bwphotography #shotoniphone</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#bwphotography #shotoniphone \n\n<img src=\"https://cdn.uploads.micro.blog/1135/2023/a5495de7f0.jpg\" width=\"450\" height=\"600\" alt=\"Black and white photo of two escalators going in opposite directions \">\n",
+				"date_published": "2023-10-01T19:32:24+08:00",
+				"url": "https://my.advocrazy.com/2023/10/01/bwphotography-shotoniphone.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/01/more-privacywashing-from.html",
+				
+				"content_html": "<p>More privacy-washing from Google</p>\n<p><a href=\"https://www.theregister.com/2023/09/30/eff_chrome_google_sandbox/\">EFF and Chrome</a></p>\n",
+				"content_text": "More privacy-washing from Google\n\n[EFF and Chrome](https://www.theregister.com/2023/09/30/eff_chrome_google_sandbox/)\n",
+				"date_published": "2023-10-01T12:21:36+08:00",
+				"url": "https://my.advocrazy.com/2023/10/01/more-privacywashing-from.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/01/does-it-function.html",
+				
+				"content_html": "<p>Does it function like an Apple Watch with cellular? So, another device that needs an eSIM?   Does it come with WiFi? Err, I don’t think that this is for me.</p>\n<p><a href=\"https://9to5google.com/2023/09/30/humane-ai-pin-design/\">Humane Ai Pin looks like Google Clips, won&rsquo;t need paired phone </a></p>\n",
+				"content_text": "Does it function like an Apple Watch with cellular? So, another device that needs an eSIM?   Does it come with WiFi? Err, I don’t think that this is for me.\n\n[Humane Ai Pin looks like Google Clips, won't need paired phone ](https://9to5google.com/2023/09/30/humane-ai-pin-design/)\n",
+				"date_published": "2023-10-01T09:40:24+08:00",
+				"url": "https://my.advocrazy.com/2023/10/01/does-it-function.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2023/10/01/september-photoblogging-challenge.html",
 				
 				"content_html": "<p>September 2023 Photoblogging challenge day 30: <strong>treasure</strong> #mbsept</p>\n<p><img src=\"https://live.staticflickr.com/65535/53225052726_6c97633f71.jpg\" alt=\"A wooden Holy Rosary from the Holy Land\" title=\"A wooden Holy Rosary from the Holy Land\"></p>\n<p><a href=\"https://flic.kr/p/2p6jiQS\">posted on Flickr</a></p>\n",
@@ -42,7 +190,7 @@
 				"id": "http://rom.micro.blog/2023/09/28/i-dont-know.html",
 				
 				"content_html": "<p>I don’t know what this audio waveform icon on the iMessage input field means. I know of the mic icon, but this one? Do you know what it means?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I don’t know what this audio waveform icon on the iMessage input field means. I know of the mic icon, but this one? Do you know what it means? \n\n<img src=\"uploads/2023/466c8ec97f.jpg\" width=\"600\" height=\"596\" alt=\"iOS 17.0.2 iMessage keyboard showing some strange Audio Waveform on the input field\">\n",
+				"content_text": "I don’t know what this audio waveform icon on the iMessage input field means. I know of the mic icon, but this one? Do you know what it means? \n\n<img src=\"https://cdn.uploads.micro.blog/1135/2023/466c8ec97f.jpg\" width=\"600\" height=\"596\" alt=\"iOS 17.0.2 iMessage keyboard showing some strange Audio Waveform on the input field\">\n",
 				"date_published": "2023-09-28T13:35:29+08:00",
 				"url": "https://my.advocrazy.com/2023/09/28/i-dont-know.html",
 				"tags": ["photos"]
