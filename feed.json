@@ -7,6 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/10/27/if-you-have.html",
+				
+				"content_html": "<p>If you have not seen the pattern, disinformation keeps Facebook. X and TikTok alive. LOL</p>\n<p><a href=\"https://www.wired.com/story/maine-mass-shooting-disinformation/\">Social networks Facebook, X and TikTok and mass shooting disinformation</a></p>\n",
+				"content_text": "If you have not seen the pattern, disinformation keeps Facebook. X and TikTok alive. LOL\r\n\r\n[Social networks Facebook, X and TikTok and mass shooting disinformation](https://www.wired.com/story/maine-mass-shooting-disinformation/)\n",
+				"date_published": "2023-10-27T06:32:21+08:00",
+				"url": "https://my.advocrazy.com/2023/10/27/if-you-have.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/26/and-you-think.html",
+				
+				"content_html": "<p>And you think Siri sucks? It is BY DESIGN</p>\n<p><a href=\"https://appleinsider.com/articles/23/10/25/google-tried-to-make-apple-limit-siri-search-show-court-documents\">Google played to restrict Siri</a></p>\n",
+				"content_text": "And you think Siri sucks? It is BY DESIGN\n\n[Google played to restrict Siri](https://appleinsider.com/articles/23/10/25/google-tried-to-make-apple-limit-siri-search-show-court-documents)\n",
+				"date_published": "2023-10-26T17:18:07+08:00",
+				"url": "https://my.advocrazy.com/2023/10/26/and-you-think.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/26/uhoh-this-is.html",
+				
+				"content_html": "<p>Uh-oh! This is bad.</p>\n<p><a href=\"https://it.slashdot.org/story/23/10/25/1845256/hackers-can-force-ios-and-macos-browsers-to-divulge-passwords\">Apple&rsquo;s A-series and M-series chips are vulnerable to side-channel attacks</a></p>\n",
+				"content_text": "Uh-oh! This is bad.\r\n\r\n[Apple's A-series and M-series chips are vulnerable to side-channel attacks](https://it.slashdot.org/story/23/10/25/1845256/hackers-can-force-ios-and-macos-browsers-to-divulge-passwords)\n",
+				"date_published": "2023-10-26T07:26:30+08:00",
+				"url": "https://my.advocrazy.com/2023/10/26/uhoh-this-is.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/25/remind-me-again.html",
+				
+				"content_html": "<p>Remind me again - when is #Flickr joining the fediverse? #ActivityPub</p>\n",
+				"content_text": "Remind me again - when is #Flickr joining the fediverse? #ActivityPub\n",
+				"date_published": "2023-10-25T19:54:09+08:00",
+				"url": "https://my.advocrazy.com/2023/10/25/remind-me-again.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/25/oh-hello-there.html",
+				
+				"content_html": "<p>Oh hello there, ramen! #ShotOniPhone #iPhone15Pro</p>\n<p><img src=\"https://live.staticflickr.com/65535/53284659878_917d3592a4.jpg\" alt=\"A bowl of tonkotsu ramen on a black,plastic rectangular tray with wooden chopsticks, a plastic spoon and a piece of table napkin\" title=\"Hello, ramen!\"></p>\n<p><a href=\"https://flic.kr/p/2pbzNYo\">posted on Flickr</a></p>\n",
+				"content_text": "Oh hello there, ramen! #ShotOniPhone #iPhone15Pro\r\n\r\n![A bowl of tonkotsu ramen on a black,\r\nplastic rectangular tray with wooden chopsticks, a plastic spoon and a piece of table napkin](https://live.staticflickr.com/65535/53284659878_917d3592a4.jpg \"Hello, ramen!\")\r\n\r\n[posted on Flickr](https://flic.kr/p/2pbzNYo)\n",
+				"date_published": "2023-10-25T18:55:50+08:00",
+				"url": "https://my.advocrazy.com/2023/10/25/oh-hello-there.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/23/how-do-you.html",
+				
+				"content_html": "<p>How do you DISABLE the 1Password passkey prompt on their Safari/Firefox plug-in on the Mac?</p>\n",
+				"content_text": "How do you DISABLE the 1Password passkey prompt on their Safari/Firefox plug-in on the Mac?\n",
+				"date_published": "2023-10-23T07:32:33+08:00",
+				"url": "https://my.advocrazy.com/2023/10/23/how-do-you.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/10/23/currently-using-an.html",
+				
+				"content_html": "<p>Currently using an Eero Pro as main hub. Why is it proxying traffic from a device within the network? A reboot fixes that, but it is still weird. Now planning to replace the entire Eero network because of this.</p>\n",
+				"content_text": "Currently using an Eero Pro as main hub. Why is it proxying traffic from a device within the network? A reboot fixes that, but it is still weird. Now planning to replace the entire Eero network because of this.\n",
+				"date_published": "2023-10-23T06:24:26+08:00",
+				"url": "https://my.advocrazy.com/2023/10/23/currently-using-an.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://rom.micro.blog/2023/10/22/subscribe-to-free.html",
 				
 				"content_html": "<p>Subscribe to FREE ProtonPass \n<a href=\"https://proton.me/blog/dashlane-alternative\">proton.me/blog/dash&hellip;</a></p>\n<p>Referral code if you want to subscribe to ProtonPass and other Proton services: <a href=\"https://pr.tn/ref/0STK384CYT4G\">pr.tn/ref/0STK3&hellip;</a></p>\n",
