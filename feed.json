@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/11/24/aint-this-sweet.html",
+				
+				"content_html": "<p>ain’t this sweet? NOT!</p>\n<p><a href=\"https://futurism.com/the-byte/google-gmail-tool-hallucinating-emails\">Gmail tool fabricates emails</a></p>\n",
+				"content_text": "ain’t this sweet? NOT!\n\n[Gmail tool fabricates emails](https://futurism.com/the-byte/google-gmail-tool-hallucinating-emails)\n",
+				"date_published": "2023-11-24T17:45:03+08:00",
+				"url": "https://my.advocrazy.com/2023/11/24/aint-this-sweet.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/11/24/about-to-call.html",
+				
+				"content_html": "<p>about to call it &ndash; weekend starts now! Hahaha.</p>\n",
+				"content_text": "about to call it -- weekend starts now! Hahaha. \n",
+				"date_published": "2023-11-24T13:54:09+08:00",
+				"url": "https://my.advocrazy.com/2023/11/24/about-to-call.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/11/24/hmm-obisidian-logseq.html",
+				
+				"content_html": "<p>Hmm&hellip; #Obisidian, #LogSeq and #AnyType - which one for cross-platform and small team use?</p>\n",
+				"content_text": "Hmm... #Obisidian, #LogSeq and #AnyType - which one for cross-platform and small team use? \n",
+				"date_published": "2023-11-24T05:54:02+08:00",
+				"url": "https://my.advocrazy.com/2023/11/24/hmm-obisidian-logseq.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/11/24/almost-got-sucked.html",
+				
+				"content_html": "<p>Almost got sucked in the vortex called domain name shopping!</p>\n",
+				"content_text": "Almost got sucked in the vortex called domain name shopping! \n",
+				"date_published": "2023-11-24T05:39:11+08:00",
+				"url": "https://my.advocrazy.com/2023/11/24/almost-got-sucked.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/11/23/happy-thanksgiving-to.html",
+				
+				"content_html": "<p>Happy Thanksgiving to my American friends!</p>\n",
+				"content_text": "Happy Thanksgiving to my American friends! \n",
+				"date_published": "2023-11-23T19:44:11+08:00",
+				"url": "https://my.advocrazy.com/2023/11/23/happy-thanksgiving-to.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/11/23/are-you-using.html",
+				
+				"content_html": "<p>Are you using Eight Sleep mattresses? Well, the company collects your sleep data - if you are concerned about this data collection, then maybe it is time to block any traffic going to the company.</p>\n<p><a href=\"https://www.404media.co/ceo-reminds-everyone-eightsleep-pod-collects-sleep-data-to-make-zeitgeisty-point-about-openai-drama/\">Eight Sleep mattresses and your sleep data</a></p>\n",
+				"content_text": "Are you using Eight Sleep mattresses? Well, the company collects your sleep data - if you are concerned about this data collection, then maybe it is time to block any traffic going to the company.\r\n\r\n[Eight Sleep mattresses and your sleep data](https://www.404media.co/ceo-reminds-everyone-eightsleep-pod-collects-sleep-data-to-make-zeitgeisty-point-about-openai-drama/)\n",
+				"date_published": "2023-11-23T06:56:47+08:00",
+				"url": "https://my.advocrazy.com/2023/11/23/are-you-using.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/11/22/how-much-voice.html",
+				
+				"content_html": "<p>How much voice sample is needed to create your virtual voice (deepfake) again?</p>\n<p><a href=\"https://9to5google.com/2023/11/21/openai-launches-free-chatgpt-voice/\">ChatGPT Voice now available for free - in exchange for your voice data?</a></p>\n",
+				"content_text": "How much voice sample is needed to create your virtual voice (deepfake) again?\r\n\r\n[ChatGPT Voice now available for free - in exchange for your voice data?](https://9to5google.com/2023/11/21/openai-launches-free-chatgpt-voice/)\n",
+				"date_published": "2023-11-22T09:59:23+08:00",
+				"url": "https://my.advocrazy.com/2023/11/22/how-much-voice.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/11/20/trouble-in-the.html",
+				
+				"content_html": "<p>Trouble in the Matrix (Foundation)? By the looks of things, this isn&rsquo;t going really well.</p>\n<p><a href=\"https://github.com/matrix-org/matrix-spec/issues/571\">Questions about the Matrix Foundation&rsquo;s financials</a></p>\n",
+				"content_text": "Trouble in the Matrix (Foundation)? By the looks of things, this isn't going really well. \r\n\r\n[Questions about the Matrix Foundation's financials](https://github.com/matrix-org/matrix-spec/issues/571)\n",
+				"date_published": "2023-11-20T05:55:36+08:00",
+				"url": "https://my.advocrazy.com/2023/11/20/trouble-in-the.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2023/11/19/wait-now-they.html",
 				
 				"content_html": "<p>Wait, now they want him back? <strong>suspiciously trying to make it similar to Apple and Jobs?</strong></p>\n",
