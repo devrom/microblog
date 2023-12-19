@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/12/20/i-cannot-wait.html",
+				
+				"content_html": "<p>I <strong>cannot</strong> wait for the AI bubble to burst!</p>\n<p><a href=\"https://locusmag.com/2023/12/commentary-cory-doctorow-what-kind-of-bubble-is-ai/\">locusmag.com/2023/12/c&hellip;</a></p>\n",
+				"content_text": "I **cannot** wait for the AI bubble to burst!\r\n\r\n[locusmag.com/2023/12/c...](https://locusmag.com/2023/12/commentary-cory-doctorow-what-kind-of-bubble-is-ai/)\n",
+				"date_published": "2023-12-20T05:55:20+08:00",
+				"url": "https://my.advocrazy.com/2023/12/20/i-cannot-wait.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/12/19/current-background-music.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Current <a href=\"https://music.apple.com/us/album/christmas-instrumental/1655630493\">background music</a></p>\n\n<p>#AppleMusic</p>\n",
+				"date_published": "2023-12-19T16:33:40+08:00",
+				"url": "https://my.advocrazy.com/2023/12/19/current-background-music.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/12/19/done-flagging-one.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Done flagging one domain for decommissioning. </p>\n",
+				"date_published": "2023-12-19T16:29:37+08:00",
+				"url": "https://my.advocrazy.com/2023/12/19/done-flagging-one.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://rom.micro.blog/2023/12/13/am-delivery-of.html",
 				
 				"content_html": "<p>6AM delivery of banana bread I ordered to gift to neighbors. w00t!</p>\n",
