@@ -7,6 +7,91 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2023/12/25/see-you-at.html",
+				
+				"content_html": "<p>See you at Nakatomi Plaza.. 📽</p>\n",
+				"content_text": "See you at Nakatomi Plaza.. 📽\n",
+				"date_published": "2023-12-25T12:29:52+08:00",
+				"url": "https://my.advocrazy.com/2023/12/25/see-you-at.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/12/24/to-you-who.html",
+				
+				"content_html": "<p>To you who celebrate, Merry Christmas to you and your family!</p>\n",
+				"content_text": "To you who celebrate, Merry Christmas to you and your family! \n",
+				"date_published": "2023-12-24T10:19:34+08:00",
+				"url": "https://my.advocrazy.com/2023/12/24/to-you-who.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/12/24/i-am-still.html",
+				
+				"content_html": "<p>I am still waiting for the headline - &ldquo;AI can now predict when a politician will be corrupt before it happens&rdquo;</p>\n",
+				"content_text": "I am still waiting for the headline - \"AI can now predict when a politician will be corrupt before it happens\"\n",
+				"date_published": "2023-12-24T09:38:50+08:00",
+				"url": "https://my.advocrazy.com/2023/12/24/i-am-still.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/12/24/did-not-expect.html",
+				
+				"content_html": "<p>Did not expect that I had to do some troubleshooting today as there was an issue with two-factor authentication on #NextCloud 28.0.0. Upgraded and hopefully fixed that issue. So far, so good.</p>\n",
+				"content_text": "Did not expect that I had to do some troubleshooting today as there was an issue with two-factor authentication on #NextCloud 28.0.0. Upgraded and hopefully fixed that issue. So far, so good.\n",
+				"date_published": "2023-12-24T09:34:22+08:00",
+				"url": "https://my.advocrazy.com/2023/12/24/did-not-expect.html",
+				"tags": ["Linux","Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/12/23/i-have-reset.html",
+				
+				"content_html": "<p>I have reset Contact Key Verification several times already and this pops up after about a week with no other details as to what the issue is about and how to fix it. Wonder if this happens to others with multiple devices also. #Apple #iOS #macOS</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I have reset Contact Key Verification several times already and this pops up after about a week with no other details as to what the issue is about and how to fix it. Wonder if this happens to others with multiple devices also. #Apple #iOS #macOS \n\n<img src=\"uploads/2023/screenshot-2023-12-23-at-6.38.31am.png\" width=\"600\" height=\"191\" alt=\"iCloud Contact Key Verification Setting showing that there is an issue without any other information as to what it is\">\n",
+				"date_published": "2023-12-23T06:44:12+08:00",
+				"url": "https://my.advocrazy.com/2023/12/23/i-have-reset.html",
+				"tags": ["photos","Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/12/23/interesting-study-on.html",
+				
+				"content_html": "<p>Interesting study on the size of YouTube</p>\n<blockquote>\n<p>Rather than finding evidence that most YouTube users wanted to be part of a creator economy, we found surprising and unusual uses for the platform:</p>\n<ul>\n<li>Just over 40% (40.56%) of videos featured music and no speech (and only 34.2% of that subset were in the YouTube Music database).</li>\n<li>Just over 15% (15.54%) were primarily still images.</li>\n<li>Just under 20% (19.52%) of videos were people playing video games.</li>\n<li>Almost  4%  (3.84%)  of  videos  were  religious  in  nature,  with  about  3%  (2.99%)  focused on news and current events.\n<a href=\"https://journalqd.org/article/view/4066\">Dialing for Videos: A Random Sample of YouTube</a></li>\n</ul>\n</blockquote>\n",
+				"content_text": "Interesting study on the size of YouTube\n\n> Rather than finding evidence that most YouTube users wanted to be part of a creator economy, we found surprising and unusual uses for the platform: \n> * Just over 40% (40.56%) of videos featured music and no speech (and only 34.2% of that subset were in the YouTube Music database). \n> * Just over 15% (15.54%) were primarily still images. \n> * Just under 20% (19.52%) of videos were people playing video games. \n> * Almost  4%  (3.84%)  of  videos  were  religious  in  nature,  with  about  3%  (2.99%)  focused on news and current events.\n> [Dialing for Videos: A Random Sample of YouTube](https://journalqd.org/article/view/4066)\n",
+				"date_published": "2023-12-23T06:34:43+08:00",
+				"url": "https://my.advocrazy.com/2023/12/23/interesting-study-on.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/12/23/yay-thanks-microblog.html",
+				
+				"content_html": "<p><strong>Yay!!!</strong> Thanks Micro.blog (@manton and team) for this!</p>\n<blockquote>\n<p>Added better support for blocking specific ActivityPub servers, like all of Meta’s threads.net. To mute or block a user, go to Account → Edit Muted and Blocked Users. - <a href=\"https://news.micro.blog/2023/12/22/added-better-support.html\">news.micro.blog/2023/12/2&hellip;</a></p>\n</blockquote>\n",
+				"content_text": "**Yay!!!** Thanks Micro.blog (@manton and team) for this!\n\n> Added better support for blocking specific ActivityPub servers, like all of Meta’s threads.net. To mute or block a user, go to Account → Edit Muted and Blocked Users. - [news.micro.blog/2023/12/2...](https://news.micro.blog/2023/12/22/added-better-support.html)\n",
+				"date_published": "2023-12-23T05:54:20+08:00",
+				"url": "https://my.advocrazy.com/2023/12/23/yay-thanks-microblog.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/12/22/argh-posted-using.html",
+				
+				"content_html": "<p>Argh! Posted using Lillihub with cross-posting unticked and yet the post cross-posted. Hmm&hellip;</p>\n",
+				"content_text": "Argh! Posted using Lillihub with cross-posting unticked and yet the post cross-posted. Hmm...\n",
+				"date_published": "2023-12-22T11:18:28+08:00",
+				"url": "https://my.advocrazy.com/2023/12/22/argh-posted-using.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2023/12/22/dillydallying-on-that.html",
+				
+				"content_html": "<p>Dillydallying on that entry-level Delonghi manual espresso machine&hellip;</p>\n<p>Should I or should I not?</p>\n",
+				"content_text": "Dillydallying on that entry-level Delonghi manual espresso machine... \n\nShould I or should I not?\n",
+				"date_published": "2023-12-22T11:16:05+08:00",
+				"url": "https://my.advocrazy.com/2023/12/22/dillydallying-on-that.html",
+				"tags": ["food"]
+			},
+			{
+				"id": "http://rom.micro.blog/2023/12/22/raining-right-now.html",
+				
+				"content_html": "<p>Raining right now&hellip; bummed that my plan to go out for a walk is derailed. Oh well.</p>\n",
+				"content_text": "Raining right now... bummed that my plan to go out for a walk is derailed. Oh well.\n",
+				"date_published": "2023-12-22T06:14:31+08:00",
+				"url": "https://my.advocrazy.com/2023/12/22/raining-right-now.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2023/12/20/i-cannot-wait.html",
 				
 				"content_html": "<p>I <strong>cannot</strong> wait for the AI bubble to burst!</p>\n<p><a href=\"https://locusmag.com/2023/12/commentary-cory-doctorow-what-kind-of-bubble-is-ai/\">locusmag.com/2023/12/c&hellip;</a></p>\n",
