@@ -7,6 +7,106 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2024/01/20/interesting-move-by.html",
+				
+				"content_html": "<p>Interesting move by Samsung to provide 1-year free subscription to its AI smarts in its new smartphones — wonder how much it will cost after.</p>\n<p>R1 is doing the same, too.</p>\n<p>Users should expect to be paying for the smarts that they think come bundled for free forever.</p>\n",
+				"content_text": "Interesting move by Samsung to provide 1-year free subscription to its AI smarts in its new smartphones — wonder how much it will cost after. \n\nR1 is doing the same, too. \n\nUsers should expect to be paying for the smarts that they think come bundled for free forever. \n",
+				"date_published": "2024-01-20T12:56:04+08:00",
+				"url": "https://my.advocrazy.com/2024/01/20/interesting-move-by.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/01/20/made-oatmilk-store.html",
+				
+				"content_html": "<p>Made oatmilk (store bought - barista version) cappuccino. ☕️ #coffee</p>\n",
+				"content_text": "Made oatmilk (store bought - barista version) cappuccino. ☕️ #coffee \n",
+				"date_published": "2024-01-20T09:23:25+08:00",
+				"url": "https://my.advocrazy.com/2024/01/20/made-oatmilk-store.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/01/20/went-out-for.html",
+				
+				"content_html": "<p>Went out for a walk and did a Starbucks pitstop to buy a bag of beans. Passed by the basketball court to find my sister and her kids shooting hoops (apparently a science homework of one of the kids). Nah, I went straight home instead. 😜</p>\n",
+				"content_text": "Went out for a walk and did a Starbucks pitstop to buy a bag of beans. Passed by the basketball court to find my sister and her kids shooting hoops (apparently a science homework of one of the kids). Nah, I went straight home instead. 😜\n",
+				"date_published": "2024-01-20T09:21:55+08:00",
+				"url": "https://my.advocrazy.com/2024/01/20/went-out-for.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/01/19/drats-i-am.html",
+				
+				"content_html": "<p>Drats! I am still $3450 short to pre-order the AVP today! LOL</p>\n",
+				"content_text": "Drats! I am still $3450 short to pre-order the AVP today! LOL\n",
+				"date_published": "2024-01-19T18:53:08+08:00",
+				"url": "https://my.advocrazy.com/2024/01/19/drats-i-am.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/01/19/where-were-these.html",
+				
+				"content_html": "<p>Isn&rsquo;t Apple just applying the same anti-steering violation remedy they have in the Netherlands to the US? Not saying that I agree with it, but legally, Apple can do this. I am hoping that the US judge will rule on this soon - that Apple&rsquo;s compliance is not enough, but would be interesting to see the legal basis.</p>\n<p>That being said, I agree with Gruber <a href=\"https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement\">here</a> that</p>\n<blockquote>\n<p>this move reeks of greed and avarice </p>\n</blockquote>\n<p>The thing is - maybe it is time for developers to vote with their blood, sweat, tears and money, and ditch the platform - that should teach Apple!</p>\n",
+				"content_text": "Isn't Apple just applying the same anti-steering violation remedy they have in the Netherlands to the US? Not saying that I agree with it, but legally, Apple can do this. I am hoping that the US judge will rule on this soon - that Apple's compliance is not enough, but would be interesting to see the legal basis.\n\nThat being said, I agree with Gruber [here](https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement) that \n>this move reeks of greed and avarice \n\nThe thing is - maybe it is time for developers to vote with their blood, sweat, tears and money, and ditch the platform - that should teach Apple!\n\n\n",
+				"date_published": "2024-01-19T06:33:23+08:00",
+				"url": "https://my.advocrazy.com/2024/01/19/where-were-these.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/01/17/wait-did-i.html",
+				
+				"content_html": "<p>Wait, did I read that right? BlueSky now supports RSS? Really?</p>\n",
+				"content_text": "Wait, did I read that right? BlueSky now supports RSS? Really? \n",
+				"date_published": "2024-01-17T06:03:37+08:00",
+				"url": "https://my.advocrazy.com/2024/01/17/wait-did-i.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2024/01/17/ohhh-panic-just.html",
+				
+				"content_html": "<p>Ohhh, Panic just released Prompt 3, which is a one purchase for iOS <strong>and</strong> MacOS kinda app. I love Prompt, but the $99 one-time-payment is a bit steep for me and the $20/year subscription is a bit on the expensive side. Hmm&hellip; wish there is an iOS/iPadOS only pricing (am pretty comfortable using good ole Terminal on MacOS).</p>\n",
+				"content_text": "Ohhh, Panic just released Prompt 3, which is a one purchase for iOS **and** MacOS kinda app. I love Prompt, but the $99 one-time-payment is a bit steep for me and the $20/year subscription is a bit on the expensive side. Hmm... wish there is an iOS/iPadOS only pricing (am pretty comfortable using good ole Terminal on MacOS).\n",
+				"date_published": "2024-01-17T06:00:27+08:00",
+				"url": "https://my.advocrazy.com/2024/01/17/ohhh-panic-just.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2024/01/17/google-search-is.html",
+				
+				"content_html": "<p><a href=\"https://www.404media.co/google-search-really-has-gotten-worse-researchers-find/\">Google Search is deteriorating</a>, and it will continue with its LLM-generated results.</p>\n<p>Wait, I don&rsquo;t use Google Search, what do I know? LOL</p>\n",
+				"content_text": "[Google Search is deteriorating](https://www.404media.co/google-search-really-has-gotten-worse-researchers-find/), and it will continue with its LLM-generated results. \n\nWait, I don't use Google Search, what do I know? LOL\n",
+				"date_published": "2024-01-17T05:50:13+08:00",
+				"url": "https://my.advocrazy.com/2024/01/17/google-search-is.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2024/01/17/yes-it-is.html",
+				
+				"content_html": "<p>Yes! It is finally over (in the US)! Apple needs to do something to give developers an added payment option outside of Apple, and Epic lost a huge opportunity by being too greedy!</p>\n<p>Now let&rsquo;s see Apple&rsquo;s alternative app store support implementation in 2 months. Really wish Apple will do this to stop wasting time in all the regulatory attention they&rsquo;re getting, and go back to developing better products.</p>\n",
+				"content_text": "Yes! It is finally over (in the US)! Apple needs to do something to give developers an added payment option outside of Apple, and Epic lost a huge opportunity by being too greedy!\n\nNow let's see Apple's alternative app store support implementation in 2 months. Really wish Apple will do this to stop wasting time in all the regulatory attention they're getting, and go back to developing better products.\n",
+				"date_published": "2024-01-17T05:47:45+08:00",
+				"url": "https://my.advocrazy.com/2024/01/17/yes-it-is.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2024/01/16/if-the-next.html",
+				
+				"content_html": "<p>If the next iteration is more affordable (less than US$1200) and make it support different user profiles, then Apple&rsquo;s plan might just work. I mean, I don&rsquo;t need those stinking outside-facing screen. haha</p>\n<p><a href=\"https://www.macworld.com/article/2198260/apple-vision-pro-homepod-success-sales-price-second-generation.html\">Don&rsquo;t be so quick to judge Apple Vision Pro&hellip;</a></p>\n",
+				"content_text": "If the next iteration is more affordable (less than US$1200) and make it support different user profiles, then Apple's plan might just work. I mean, I don't need those stinking outside-facing screen. haha \r\n\r\n[Don't be so quick to judge Apple Vision Pro...](https://www.macworld.com/article/2198260/apple-vision-pro-homepod-success-sales-price-second-generation.html)\n",
+				"date_published": "2024-01-16T14:56:57+08:00",
+				"url": "https://my.advocrazy.com/2024/01/16/if-the-next.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/01/16/openai-bans-politicians.html",
+				
+				"content_html": "<p>OpenAI bans politicians from using ChatGPT in campaigns, but allows the military? Hmm&hellip;</p>\n",
+				"content_text": "OpenAI bans politicians from using ChatGPT in campaigns, but allows the military? Hmm...\n",
+				"date_published": "2024-01-16T14:49:19+08:00",
+				"url": "https://my.advocrazy.com/2024/01/16/openai-bans-politicians.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/01/16/ah-i-saw.html",
+				
+				"content_html": "<p>Ah, I saw another &ldquo;Contact Key Verification Issue&rdquo; in the wild. I hope that the next version of the OS will fix this - it is annoying as you don&rsquo;t know what the issue is really and what is causing it. Key verification still works, though. WEIRD.</p>\n",
+				"content_text": "Ah, I saw another \"Contact Key Verification Issue\" in the wild. I hope that the next version of the OS will fix this - it is annoying as you don't know what the issue is really and what is causing it. Key verification still works, though. WEIRD.\n",
+				"date_published": "2024-01-16T12:41:35+08:00",
+				"url": "https://my.advocrazy.com/2024/01/16/ah-i-saw.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2024/01/15/got-a-small.html",
 				
 				"content_html": "<p>Got a small box of pistachio milk, and found out that it is not ideal for making cappuccinos as it does not produce as much foam as regular milk. Same with home-made oat milk - trying to figure out what kind of fat to add to make it &ldquo;barista&rdquo; oat milk quality.</p>\n",
