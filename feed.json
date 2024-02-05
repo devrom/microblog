@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2024/02/05/now-that-im.html",
+				
+				"content_html": "<p>Now that I’m bed bound today, a Vision Pro would be nice to have. LOL</p>\n",
+				"content_text": "Now that I’m bed bound today, a Vision Pro would be nice to have. LOL\n",
+				"date_published": "2024-02-05T12:18:20+08:00",
+				"url": "https://my.advocrazy.com/2024/02/05/now-that-im.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/02/05/tech-bros-and.html",
+				
+				"content_html": "<p>Tech bros and their AIdol</p>\n<p><a href=\"https://futurism.com/the-byte/leaked-google-memo-ai\">futurism.com/the-byte/&hellip;</a></p>\n",
+				"content_text": "Tech bros and their AIdol\n\n[futurism.com/the-byte/...](https://futurism.com/the-byte/leaked-google-memo-ai)\n",
+				"date_published": "2024-02-05T10:27:41+08:00",
+				"url": "https://my.advocrazy.com/2024/02/05/tech-bros-and.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/02/03/posted-on-flickr.html",
+				
+				"content_html": "<p><img src=\"https://live.staticflickr.com/65535/53504758072_1a7b709072.jpg\" alt=\"Panorama of the football field with athletes preparing for a match\" title=\"Saturday afternoon football\"></p>\n<p><a href=\"https://flic.kr/p/2pw2SuQ\">posted on Flickr</a></p>\n",
+				"content_text": "![Panorama of the football field with athletes preparing for a match](https://live.staticflickr.com/65535/53504758072_1a7b709072.jpg \"Saturday afternoon football\")\r\n\r\n[posted on Flickr](https://flic.kr/p/2pw2SuQ)\n",
+				"date_published": "2024-02-03T15:29:24+08:00",
+				"url": "https://my.advocrazy.com/2024/02/03/posted-on-flickr.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/02/03/the-first-step.html",
+				
+				"content_html": "<p>The <a href=\"https://appleinsider.com/articles/24/02/02/explore-the-starship-enterprise-with-apple-vision-pro\">first step</a> to achieving the holodeck. 🖖 #StarTrek</p>\n",
+				"content_text": "The [first step](https://appleinsider.com/articles/24/02/02/explore-the-starship-enterprise-with-apple-vision-pro) to achieving the holodeck. 🖖 #StarTrek \n",
+				"date_published": "2024-02-03T05:43:15+08:00",
+				"url": "https://my.advocrazy.com/2024/02/03/the-first-step.html",
+				"tags": ["TV and Movies","Tech"]
+			},
+			{
+				"id": "http://rom.micro.blog/2024/02/02/successfully-revived-an.html",
+				
+				"content_html": "<p>Successfully revived an old Intel Macbook Pro. I had to look for another Intel Mac to download MacOS High Sierra. Created a bootable USB drive and then boom! Why? For some reason, the critter couldn&rsquo;t connect to the Restore server or something.</p>\n<p>Anyway, it works now and will be sent to the owner soon.</p>\n",
+				"content_text": "Successfully revived an old Intel Macbook Pro. I had to look for another Intel Mac to download MacOS High Sierra. Created a bootable USB drive and then boom! Why? For some reason, the critter couldn't connect to the Restore server or something. \r\n\r\nAnyway, it works now and will be sent to the owner soon. \r\n",
+				"date_published": "2024-02-02T05:46:21+08:00",
+				"url": "https://my.advocrazy.com/2024/02/02/successfully-revived-an.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/02/01/does-this-mean.html",
+				
+				"content_html": "<p>Does this mean that all the apps on Setapp will need to move to the new contract? Will they all leave the App Store to be on Setapp?</p>\n<p><a href=\"https://www.imore.com/iphone/the-first-alternative-ios-app-store-is-confirmed-as-macpaws-setapp-comes-to-iphone-as-a-mobile-marketplace-in-the-eu-later-this-year\">The first alternative iOS App Store is confirmed as MacPaw&rsquo;s Setapp comes to iPhone as a mobile marketplace in the EU later this year | iMore</a></p>\n",
+				"content_text": "Does this mean that all the apps on Setapp will need to move to the new contract? Will they all leave the App Store to be on Setapp?\n\n[The first alternative iOS App Store is confirmed as MacPaw's Setapp comes to iPhone as a mobile marketplace in the EU later this year | iMore](https://www.imore.com/iphone/the-first-alternative-ios-app-store-is-confirmed-as-macpaws-setapp-comes-to-iphone-as-a-mobile-marketplace-in-the-eu-later-this-year)\n",
+				"date_published": "2024-02-01T12:40:56+08:00",
+				"url": "https://my.advocrazy.com/2024/02/01/does-this-mean.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2024/01/31/just-backed-project.html",
 				
 				"content_html": "<p>Just backed Project Tapestry :)</p>\n",
