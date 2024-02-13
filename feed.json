@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2024/02/07/bluesky-opens-to.html",
+				
+				"content_html": "<p>BlueSky opens to the public! Here comes the content moderation challenge!</p>\n<p>Where is federation? Is it coming really soon?</p>\n",
+				"content_text": "BlueSky opens to the public! Here comes the content moderation challenge!\r\n\r\nWhere is federation? Is it coming really soon?\n",
+				"date_published": "2024-02-07T05:38:26+08:00",
+				"url": "https://my.advocrazy.com/2024/02/07/bluesky-opens-to.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/02/07/yes-awesome-design.html",
+				
+				"content_html": "<p>Yes! Awesome design being done for Project Tapestry!</p>\n<p><a href=\"https://blog.iconfactory.com/2024/02/tapestry-unwoven/\">blog.iconfactory.com/2024/02/t&hellip;</a></p>\n",
+				"content_text": "Yes! Awesome design being done for Project Tapestry! \r\n\r\n[blog.iconfactory.com/2024/02/t...](https://blog.iconfactory.com/2024/02/tapestry-unwoven/)\n",
+				"date_published": "2024-02-07T05:01:00+08:00",
+				"url": "https://my.advocrazy.com/2024/02/07/yes-awesome-design.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/02/05/serious-question-i.html",
+				
+				"content_html": "<p>Serious question, I know that I need to rest to rid of the colds and I also know that coffee is generally good for you, should I or should I not have coffee?</p>\n",
+				"content_text": "Serious question, I know that I need to rest to rid of the colds and I also know that coffee is generally good for you, should I or should I not have coffee? \n",
+				"date_published": "2024-02-05T12:22:43+08:00",
+				"url": "https://my.advocrazy.com/2024/02/05/serious-question-i.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/02/05/chicken-soup-do.html",
+				
+				"content_html": "<p>Chicken soup, do your thing! 🤧</p>\n",
+				"content_text": "Chicken soup, do your thing! 🤧\n",
+				"date_published": "2024-02-05T12:21:36+08:00",
+				"url": "https://my.advocrazy.com/2024/02/05/chicken-soup-do.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2024/02/05/now-that-im.html",
 				
 				"content_html": "<p>Now that I’m bed bound today, a Vision Pro would be nice to have. LOL</p>\n",
