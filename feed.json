@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://rom.micro.blog/2024/03/19/i-feel-so.html",
+				
+				"content_html": "<p>I feel so dirty - installing Windows on Parallels Desktop on M2 Mac Mini. Will be nuking it after the 14-day trial. LOL</p>\n",
+				"content_text": "I feel so dirty - installing Windows on Parallels Desktop on M2 Mac Mini. Will be nuking it after the 14-day trial. LOL\n",
+				"date_published": "2024-03-19T06:11:10+08:00",
+				"url": "https://my.advocrazy.com/2024/03/19/i-feel-so.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/03/18/163621.html",
+				
+				"content_html": "<p><img src=\"https://live.staticflickr.com/65535/53580848430_648affa248.jpg\" alt=\"Close-up of a salad made up of a mix of salmon and tuna sashimi on a bed of lettuce and cherry tomato and drizzled with sesame dressing\" title=\"Salad for Lent\"></p>\n<p><a href=\"https://flic.kr/p/2pCKRvy\">posted on Flickr</a></p>\n",
+				"content_text": "![Close-up of a salad made up of a mix of salmon and tuna sashimi on a bed of lettuce and cherry tomato and drizzled with sesame dressing](https://live.staticflickr.com/65535/53580848430_648affa248.jpg \"Salad for Lent\")\r\n\r\n[posted on Flickr](https://flic.kr/p/2pCKRvy)\n",
+				"date_published": "2024-03-18T16:36:21+08:00",
+				"url": "https://my.advocrazy.com/2024/03/18/163621.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/03/18/posted-on-flickr.html",
+				
+				"content_html": "<p><img src=\"https://live.staticflickr.com/65535/53580404751_b40d8b93c9.jpg\" alt=\"Ham and bacon flatbread on a white ceramic plate, paired with cappuccino on a white ceramic mug, both on a black plastic tray. An iPhone 12 Pro propped up in landscape mode showing UAAP Men&rsquo;s Volleyball video placement in the background\" title=\"Waiting at Starbucks\"></p>\n<p><a href=\"https://flic.kr/p/2pCHzBV\">posted on Flickr</a></p>\n",
+				"content_text": "![Ham and bacon flatbread on a white ceramic plate, paired with cappuccino on a white ceramic mug, both on a black plastic tray. An iPhone 12 Pro propped up in landscape mode showing UAAP Men's Volleyball video placement in the background](https://live.staticflickr.com/65535/53580404751_b40d8b93c9.jpg \"Waiting at Starbucks\")\r\n\r\n[posted on Flickr](https://flic.kr/p/2pCHzBV)\n",
+				"date_published": "2024-03-18T16:35:57+08:00",
+				"url": "https://my.advocrazy.com/2024/03/18/posted-on-flickr.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/03/17/football-sunday-watching.html",
+				
+				"content_html": "<p>Football Sunday - watching free weekend MLS games on Apple TV earlier and now #UAAP Collegiate Men’s Football</p>\n",
+				"content_text": "Football Sunday - watching free weekend MLS games on Apple TV earlier and now #UAAP Collegiate Men’s Football \n",
+				"date_published": "2024-03-17T16:50:07+08:00",
+				"url": "https://my.advocrazy.com/2024/03/17/football-sunday-watching.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/03/16/in-summary-the.html",
+				
+				"content_html": "<blockquote>\n<p>“In summary, the management of bilateral iatrogenic I&rsquo;m very sorry, but I don&rsquo;t have access to real-time information or patient-specific data, as I am an AI language model.”</p>\n</blockquote>\n<p>From <a href=\"https://www.sciencedirect.com/science/article/pii/S1930043324001298\">Science Direct</a></p>\n<p>OMG!</p>\n",
+				"content_text": "> “In summary, the management of bilateral iatrogenic I'm very sorry, but I don't have access to real-time information or patient-specific data, as I am an AI language model.” \r\n\r\nFrom [Science Direct](https://www.sciencedirect.com/science/article/pii/S1930043324001298)\r\n\r\nOMG!\n",
+				"date_published": "2024-03-16T04:30:48+08:00",
+				"url": "https://my.advocrazy.com/2024/03/16/in-summary-the.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/03/15/downloaded-protons-macos.html",
+				
+				"content_html": "<p>Downloaded Proton’s MacOS desktop app. Ran it for the first time and it tried to connect to electronjs - boom! Auto-delete! Yeah, sorry. I try to be as Chromium free as possible.</p>\n",
+				"content_text": "Downloaded Proton’s MacOS desktop app. Ran it for the first time and it tried to connect to electronjs - boom! Auto-delete! Yeah, sorry. I try to be as Chromium free as possible.\n",
+				"date_published": "2024-03-15T08:50:35+08:00",
+				"url": "https://my.advocrazy.com/2024/03/15/downloaded-protons-macos.html"
+			},
+			{
+				"id": "http://rom.micro.blog/2024/03/14/of-course-wheres.html",
+				
+				"content_html": "<p>Of course! Where&rsquo;s the fun in that, right?</p>\n<p><a href=\"https://www.proofnews.org/leading-ai-companies-openai-and-anthropic-are-not-keeping-their-election-promises/\">www.proofnews.org/leading-a&hellip;</a></p>\n",
+				"content_text": "Of course! Where's the fun in that, right? \r\n\r\n[www.proofnews.org/leading-a...](https://www.proofnews.org/leading-ai-companies-openai-and-anthropic-are-not-keeping-their-election-promises/)\n",
+				"date_published": "2024-03-14T05:39:38+08:00",
+				"url": "https://my.advocrazy.com/2024/03/14/of-course-wheres.html"
+			},
+			{
 				"id": "http://rom.micro.blog/2024/03/14/happy-pi-day.html",
 				
 				"content_html": "<p>Happy pi Day!</p>\n",
